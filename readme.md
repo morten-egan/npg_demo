@@ -1,19 +1,15 @@
 # npg_demo
 Morten Egan <morten@plsql.ninja>
- 
-This is the initial readme of the project. More will be added later. Like a description of what this is
- 
-[NOTE]
-Since this is the first check-in, not much info has been added yet.
-But he will do soon.
- 
+
 ## Summary
- 
+
+The readme is not included in the npg.spec file, to demonstrate that when a package is build from
+a github repository it will be added automatically.
+
 ## Pre-requisites
- 
+
 ## Installation
- 
+
 ## Procedures and Functions
- 
+
 ## Examples
- 
