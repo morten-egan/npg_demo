@@ -13,4 +13,6 @@ privilege: create procedure
 [files]
 npg_demo.spec.sql:package
 npg_demo.body.sql:package body
+subdir/npg_demo_sub.spec.sql:package
+subdir/npg_demo_sub.body.sql:package body
 [npgend]
